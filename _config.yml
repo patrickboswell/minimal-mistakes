@@ -10,10 +10,10 @@ locale                   : "en"
 title                    : "Dataphile"
 title_separator          : "-"
 name                     : "Patrick Boswell"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Exploring human issues through data."
+url                      : # the base hostname & protocol for your site e.g. "https://patrickboswell.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "patrickboswell/patrickboswell.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -80,7 +80,7 @@ author:
   name             : "Patrick Boswell"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Austin_Tx"
+  location         : "Austin"
   email            :
   uri              :
   bitbucket        :
